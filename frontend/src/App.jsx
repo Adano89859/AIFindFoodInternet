@@ -207,7 +207,6 @@ function App() {
                       >
                         Ver
                         <ExternalLink size={16} />
-                      </a>
                     </div>
                   </div>
                 </div>
